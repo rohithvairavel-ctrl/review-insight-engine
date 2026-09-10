@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="363">
+<text x="20" y="28" font-size="16" font-family="sans-serif">Top Words per Topic (NMF)</text>
+<text x="20" y="55" font-size="13" font-weight="bold">Topic 0: like, cd, song, music</text>
+<text x="20" y="73" font-size="12">like, cd, song, music, songs, one, really, dont</text>
+<text x="20" y="103" font-size="13" font-weight="bold">Topic 1: great, works, price, product</text>
+<text x="20" y="121" font-size="12">great, works, price, product, place, great album, love, great songs</text>
+<text x="20" y="151" font-size="13" font-weight="bold">Topic 2: service, food, terrible, friendly</text>
+<text x="20" y="169" font-size="12">service, food, terrible, friendly, slow, excellent, poor, bad</text>
+<text x="20" y="199" font-size="13" font-weight="bold">Topic 3: phone, ive, worst, ever</text>
+<text x="20" y="217" font-size="12">phone, ive, worst, ever, cell, works, battery, new</text>
+<text x="20" y="247" font-size="13" font-weight="bold">Topic 4: good, pretty, good songs, pretty good</text>
+<text x="20" y="265" font-size="12">good, pretty, good songs, pretty good, food, really good, songs, product</text>
+<text x="20" y="295" font-size="13" font-weight="bold">Topic 5: movie, bad, movies, acting</text>
+<text x="20" y="313" font-size="12">movie, bad, movies, acting, seen, stupid, everything, terrible</text>
+</svg>

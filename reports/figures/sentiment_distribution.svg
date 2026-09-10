@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300">
+  <text x="20" y="28" font-size="16" font-family="sans-serif">Sentiment Distribution (sample)</text>
+  <rect x="100" y="108" width="100" height="132" fill="#E45756"/><text x="150" y="100" text-anchor="middle" font-size="12">3293</text><text x="150" y="260" text-anchor="middle" font-size="13">negative</text><rect x="250" y="192" width="100" height="48" fill="#F58518"/><text x="300" y="184" text-anchor="middle" font-size="12">1200</text><text x="300" y="260" text-anchor="middle" font-size="13">neutral</text><rect x="400" y="60" width="100" height="180" fill="#54A24B"/><text x="450" y="52" text-anchor="middle" font-size="12">4490</text><text x="450" y="260" text-anchor="middle" font-size="13">positive</text>
+</svg>
