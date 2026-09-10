@@ -1,0 +1,16 @@
+{
+  "method": "LDA",
+  "n_topics": 8,
+  "topic_diversity": 0.525,
+  "topics": [
+    {"id": 0, "label": "Topic 0: album, like, song, good", "top_words": ["album", "like", "song", "good", "one", "rap", "songs", "get", "track", "dont", "tracks", "best"]},
+    {"id": 1, "label": "Topic 1: album, tracks, track, one", "top_words": ["album", "tracks", "track", "one", "also", "version", "time", "best", "sound", "hit", "albums", "release"]},
+    {"id": 2, "label": "Topic 2: album, like, song, songs", "top_words": ["album", "like", "song", "songs", "one", "music", "band", "good", "sound", "really", "rock", "first"]},
+    {"id": 3, "label": "Topic 3: album, songs, one, hits", "top_words": ["album", "songs", "one", "hits", "albums", "great", "rock", "band", "best", "classic", "greatest", "two"]},
+    {"id": 4, "label": "Topic 4: like, song, music, one", "top_words": ["like", "song", "music", "one", "good", "love", "songs", "really", "dont", "cd", "know", "im"]},
+    {"id": 5, "label": "Topic 5: album, song, music, one", "top_words": ["album", "song", "music", "one", "voice", "vocals", "songs", "well", "lyrics", "guitar", "beautiful", "love"]},
+    {"id": 6, "label": "Topic 6: movie, good, great, film", "top_words": ["movie", "good", "great", "film", "phone", "bad", "food", "service", "place", "ever", "well", "time"]},
+    {"id": 7, "label": "Topic 7: cd, album, songs, one", "top_words": ["cd", "album", "songs", "one", "good", "like", "great", "first", "music", "would", "time", "still"]}
+  ],
+  "perplexity": 1648.0037589243734
+}

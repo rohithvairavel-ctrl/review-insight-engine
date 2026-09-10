@@ -1,0 +1,16 @@
+{
+  "method": "NMF",
+  "n_topics": 8,
+  "topic_diversity": 0.775,
+  "topics": [
+    {"id": 0, "label": "Topic 0: like, cd, song, music", "top_words": ["like", "cd", "song", "music", "songs", "one", "really", "dont", "love", "get", "time", "im"]},
+    {"id": 1, "label": "Topic 1: great, works, price, product", "top_words": ["great", "works", "price", "product", "place", "great album", "love", "great songs", "item", "food", "album great", "great song"]},
+    {"id": 2, "label": "Topic 2: service, food, terrible, friendly", "top_words": ["service", "food", "terrible", "friendly", "slow", "excellent", "poor", "bad", "fantastic", "worst", "quality", "best"]},
+    {"id": 3, "label": "Topic 3: phone, ive, worst, ever", "top_words": ["phone", "ive", "worst", "ever", "cell", "works", "battery", "new", "best", "excellent", "charge", "buy"]},
+    {"id": 4, "label": "Topic 4: good, pretty, good songs, pretty good", "top_words": ["good", "pretty", "good songs", "pretty good", "food", "really good", "songs", "product", "though", "price", "really", "nice"]},
+    {"id": 5, "label": "Topic 5: movie, bad, movies, acting", "top_words": ["movie", "bad", "movies", "acting", "seen", "stupid", "everything", "terrible", "ive", "worse", "totally", "ever"]},
+    {"id": 6, "label": "Topic 6: album, best, songs, one", "top_words": ["album", "best", "songs", "one", "albums", "tracks", "track", "song", "first", "classic", "still", "like"]},
+    {"id": 7, "label": "Topic 7: film, excellent, made, watching", "top_words": ["film", "excellent", "made", "watching", "look", "fails", "think", "short", "saw", "bad", "truly", "wonderful"]}
+  ],
+  "reconstruction_err": 81.9746782658813
+}
