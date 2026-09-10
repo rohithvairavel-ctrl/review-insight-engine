@@ -1,0 +1,14 @@
+Dataset sources (public):
+
+1) SNAP Stanford — Amazon Product Reviews (Digital Music 5-core)
+   http://snap.stanford.edu/data/amazon/productGraph.html
+   McAuley et al. (Image-based recommendations / visual evolution of fashion trends).
+
+2) UCI ML Repository — Sentiment Labelled Sentences (Amazon cells, Yelp, IMDB)
+   https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences
+   Kotzias et al., KDD 2015.
+
+Committed: data/reviews_sample.csv (stratified subset for git).
+Full local set: data/reviews_full.csv via `python scripts/download_data.py` (gitignored).
+
+Star mapping: 1-2=negative, 3=neutral, 4-5=positive.
