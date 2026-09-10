@@ -27,3 +27,6 @@ data/reviews_full.csv
 
 # Keep b64 sidecar and sample data
 # models/*.joblib.b64 is committed intentionally for text-only remotes
+
+# Local MCP push helpers
+.push_*.json
