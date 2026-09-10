@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Large / local artifacts
+data/reviews_full.csv
+*.joblib
+!models/.gitkeep
+.streamlit/secrets.toml
+
+# Keep b64 sidecar and sample data
+# models/*.joblib.b64 is committed intentionally for text-only remotes
