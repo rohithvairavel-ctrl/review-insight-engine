@@ -24,7 +24,7 @@ def build_logreg_pipeline() -> Pipeline:
             (
                 "tfidf",
                 TfidfVectorizer(
-                    max_features=20000,
+                    max_features=8000,
                     ngram_range=(1, 2),
                     min_df=2,
                     max_df=0.95,
@@ -50,7 +50,7 @@ def build_linearsvc_pipeline() -> Pipeline:
             (
                 "tfidf",
                 TfidfVectorizer(
-                    max_features=25000,
+                    max_features=10000,
                     ngram_range=(1, 2),
                     min_df=2,
                     max_df=0.95,
