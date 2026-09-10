@@ -100,8 +100,8 @@ Best model by macro-F1: **`tfidf_logreg`**.
 
 | Model | Accuracy | F1 macro | F1 weighted |
 |---|---:|---:|---:|
-| `tfidf_logreg` | 0.7206 | 0.6666 | 0.7317 |
-| `tfidf_linearsvc` | 0.7451 | 0.6519 | 0.7381 |
+| `tfidf_logreg` | 0.7090 | 0.6581 | 0.7221 |
+| `tfidf_linearsvc` | 0.7223 | 0.6345 | 0.7195 |
 
 NMF topic diversity: **0.775** · LDA perplexity: **1648.0**
 
